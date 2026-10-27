@@ -1,0 +1,5 @@
+deltalake>=0.17.0
+rich>=13.0.0
+click>=8.0.0
+pyarrow>=14.0.0
+pytest>=8.0.0
